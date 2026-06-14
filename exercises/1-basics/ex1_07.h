@@ -1,0 +1,3 @@
+#pragma once
+
+float score(int num_files, int num_contributors, int num_commits, float avg_bug_criticality);

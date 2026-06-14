@@ -1,0 +1,6 @@
+add_executable(ex1.01 ex1_01.c)
+add_executable(ex1.02 ex1_02.c)
+add_executable(ex1.03 ex1_03.c)
+add_executable(ex1.04 ex1_04.c)
+add_executable(ex1.10 ex1_10.c)
+add_executable(ex1.11 ex1_11.c)
